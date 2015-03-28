@@ -1,0 +1,2 @@
+# VargoEmail
+Vargo Email Apllication
